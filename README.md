@@ -2,8 +2,12 @@
 ## 公众号：AI科技结晶
 *个人博客：https://blog.csdn.net/weixin_40524689*
 
-**data:0415**
+**data:0415** 
+
 python类型文件在python project文件夹里面
+
+Python源码记录部分未上传，目前只有一部分文章的源码。
+
 matlab文件还未添加
 
 创建时间：2020/4/15
